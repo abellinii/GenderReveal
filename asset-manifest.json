@@ -1,0 +1,37 @@
+{
+  "files": {
+    "app.js": "/abellinii/GenderReveal/static/js/app.a1d649c1.chunk.js",
+    "app.js.map": "/abellinii/GenderReveal/static/js/app.a1d649c1.chunk.js.map",
+    "runtime~app.js": "/abellinii/GenderReveal/static/js/runtime~app.d89b78cb.js",
+    "runtime~app.js.map": "/abellinii/GenderReveal/static/js/runtime~app.d89b78cb.js.map",
+    "static/js/2.87d11a7d.chunk.js": "/abellinii/GenderReveal/static/js/2.87d11a7d.chunk.js",
+    "static/js/2.87d11a7d.chunk.js.map": "/abellinii/GenderReveal/static/js/2.87d11a7d.chunk.js.map",
+    "fonts/AntDesign.ttf": "/abellinii/GenderReveal/./fonts/AntDesign.ttf",
+    "fonts/Entypo.ttf": "/abellinii/GenderReveal/./fonts/Entypo.ttf",
+    "fonts/Feather.ttf": "/abellinii/GenderReveal/./fonts/Feather.ttf",
+    "fonts/FontAwesome.ttf": "/abellinii/GenderReveal/./fonts/FontAwesome.ttf",
+    "fonts/FontAwesome5_Brands.ttf": "/abellinii/GenderReveal/./fonts/FontAwesome5_Brands.ttf",
+    "fonts/FontAwesome5_Solid.ttf": "/abellinii/GenderReveal/./fonts/FontAwesome5_Solid.ttf",
+    "fonts/Fontisto.ttf": "/abellinii/GenderReveal/./fonts/Fontisto.ttf",
+    "fonts/Foundation.ttf": "/abellinii/GenderReveal/./fonts/Foundation.ttf",
+    "fonts/Ionicons.ttf": "/abellinii/GenderReveal/./fonts/Ionicons.ttf",
+    "fonts/MaterialCommunityIcons.ttf": "/abellinii/GenderReveal/./fonts/MaterialCommunityIcons.ttf",
+    "fonts/MaterialIcons.ttf": "/abellinii/GenderReveal/./fonts/MaterialIcons.ttf",
+    "fonts/SimpleLineIcons.ttf": "/abellinii/GenderReveal/./fonts/SimpleLineIcons.ttf",
+    "fonts/SpaceMono-Regular.ttf": "/abellinii/GenderReveal/./fonts/SpaceMono-Regular.ttf",
+    "favicon-16.png": "/abellinii/GenderReveal/favicon-16.png",
+    "favicon-32.png": "/abellinii/GenderReveal/favicon-32.png",
+    "favicon.ico": "/abellinii/GenderReveal/favicon.ico",
+    "index.html": "/abellinii/GenderReveal/index.html",
+    "manifest.json": "/abellinii/GenderReveal/manifest.json",
+    "serve.json": "/abellinii/GenderReveal/serve.json",
+    "static/media/babyboy.png": "/abellinii/GenderReveal/static/media/babyboy.d6cc0454.png",
+    "static/media/gender.jpg": "/abellinii/GenderReveal/static/media/gender.61c0d761.jpg",
+    "static/media/pink.png": "/abellinii/GenderReveal/static/media/pink.8ef5d493.png"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.d89b78cb.js",
+    "static/js/2.87d11a7d.chunk.js",
+    "static/js/app.a1d649c1.chunk.js"
+  ]
+}
