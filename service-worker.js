@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/GenderReveal/precache-manifest.217b36e235fcd62f9beb36297014b6ea.js"
+  "/GenderReveal/precache-manifest.9e762a973ee01ae24116a02e89aa6c1c.js"
 );
 
 workbox.skipWaiting();
